@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Destroyer.h">
+      <Filter>Character\Dealer</Filter>
+    </ClInclude>
+    <ClInclude Include="Assassin.h">
+      <Filter>Character\Dealer</Filter>
+    </ClInclude>
+    <ClInclude Include="BraveGuardian.h">
+      <Filter>Character\Tanker</Filter>
+    </ClInclude>
+    <ClInclude Include="ShieldWarrior.h">
+      <Filter>Character\Tanker</Filter>
+    </ClInclude>
+    <ClInclude Include="DarkSorcerer.h">
+      <Filter>Character\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="PoisonSpirit.h">
+      <Filter>Character\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Dealer.h">
+      <Filter>Character\Dealer</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Character\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Tanker.h">
+      <Filter>Character\Tanker</Filter>
+    </ClInclude>
+    <ClInclude Include="Team.h">
+      <Filter>Team</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>GameManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Destroyer.cpp">
+      <Filter>Character\Dealer</Filter>
+    </ClCompile>
+    <ClCompile Include="Assassin.cpp">
+      <Filter>Character\Dealer</Filter>
+    </ClCompile>
+    <ClCompile Include="BraveGuardian.cpp">
+      <Filter>Character\Tanker</Filter>
+    </ClCompile>
+    <ClCompile Include="ShieldWarrior.cpp">
+      <Filter>Character\Tanker</Filter>
+    </ClCompile>
+    <ClCompile Include="DarkSorcerer.cpp">
+      <Filter>Character\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="PoisonSpirit.cpp">
+      <Filter>Character\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Dealer.cpp">
+      <Filter>Character\Dealer</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Character\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Tanker.cpp">
+      <Filter>Character\Tanker</Filter>
+    </ClCompile>
+    <ClCompile Include="Team.cpp">
+      <Filter>Team</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Character">
+      <UniqueIdentifier>{144cba94-989e-4005-9fbc-bb3f90fb1215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Controller">
+      <UniqueIdentifier>{87e6b4b6-a547-40e1-9a3f-87abf710cc29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Dealer">
+      <UniqueIdentifier>{25eb7f2c-c3a4-4732-a252-b0b0e8f693de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Tanker">
+      <UniqueIdentifier>{fe69b4b6-ee78-4e26-810d-028af74e2bec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Team">
+      <UniqueIdentifier>{86b3e7e4-330d-4c2e-b1bd-16180f7e150d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameManager">
+      <UniqueIdentifier>{d6ce2c77-2dbc-4181-90e9-6add2b801ece}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
